@@ -1,0 +1,27 @@
+.card>img{
+    height: 300px;
+}
+.card-body{
+    height: 100px;
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.head{
+    color: white;
+    font-family:voga;
+    font-size: 100px;
+    left: -5%;
+    position: relative;
+}
+.nav{
+    padding-bottom: 20%;
+}
